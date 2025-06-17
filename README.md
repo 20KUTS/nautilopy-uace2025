@@ -29,7 +29,7 @@ This project uses [UV](https://docs.astral.sh/uv/) for dependency management and
 
 After installing UV, download/clone this repository:
 ```bash
-git clone https://github.com/20KUTS/nautilopy-article.git
+git clone https://github.com/20KUTS/nautilopy-uace2025.git
 ```
 
 Then, open a shell/terminal/command prompt inside the folder and run:
