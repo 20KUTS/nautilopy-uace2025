@@ -162,7 +162,6 @@ project_root/
 ├── img/
 ├── nautilopy/
 ├── 01_Preprocessing.ipynb
-├── DatasetOverview.ipynb
 ├── Nautilopy.ipynb
 ├── ROSbag2csv.ipynb
 ├── pyproject.toml
