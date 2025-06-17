@@ -1,7 +1,7 @@
-# Nautilopy: 3D Underwater Cave Mapping with Sonar Technology
+# NautiloPy: An open-source Python framework for the Gironda Underwater Cave Sonar And vision data set
 **Authors:** Thomas Guilment, Gabriele Morra, Leonardo Macelloni, and Marco D'Emilio
 
-![](./img/Logo_nautilopy_tiny.png)
+![](./img/Logo_nautilopy_tiny_v2.png)
 
 ## Run the Project
 
