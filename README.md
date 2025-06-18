@@ -1,5 +1,5 @@
 # NautiloPy: An open-source Python framework for the Gironda Underwater Cave Sonar And vision data set
-**Authors:** Thomas Guilment, Gabriele Morra, Leonardo Macelloni, and Marco D'Emidio
+**Authors:** Thomas Guilment, Gabriele Morra, Leonardo Macelloni, and Marco D'Emilio
 
 ![](./img/Logo_nautilopy_tiny_v2.png)
 
@@ -31,6 +31,7 @@ After installing UV, download/clone this repository:
 ```bash
 git clone https://github.com/20KUTS/nautilopy-uace2025.git
 ```
+or download the project at [https://github.com/20KUTS/nautilopy-uace2025](https://github.com/20KUTS/nautilopy-uace2025)
 
 Then, open a shell/terminal/command prompt inside the folder and run:
 ```bash
