@@ -1,5 +1,5 @@
 # NautiloPy: An open-source Python framework for the Girona Underwater Cave Sonar And vision data set
-**Authors:** Thomas Guilment, Gabriele Morra, Leonardo Macelloni, and Marco D'Emilio
+**Authors:** Thomas Guilment, Gabriele Morra, Leonardo Macelloni, and Marco D'Emidio
 
 ![](./img/Logo_nautilopy_tiny_v2.png)
 
